@@ -1,0 +1,8 @@
+.env
+**/logs
+**/plugins
+**/__pycache__
+**/.kaggle
+docker-compose.yaml
+**/keys
+**/attempts
